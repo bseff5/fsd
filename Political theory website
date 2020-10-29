@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+
+body {
+  background-color: 	#7FFFD4;
+}
+
+head {
+  color: #FFE4C4;
+  text-align: center;
+}
+
+p {
+  background-color: #FFE4C4;
+  font-family: verdana;
+  font-size: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+   box-shadow: 0 4px 1px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.center {
+ text-align: center
+}
+
+div {
+  resize: both;
+  overflow: auto;
+}
+
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+
+</style>
+<head>
+<title> Brandon is The best</title>
+
+<p class="center"> Theory Website </p>
+
+</head>
+<body>
+
+<p> <b> By: Brandon Seff </b> </p>
+
+<p> Political Theory in Alphabetical Order  </p>
+<p><b> A</b> <hr>
+Absolute monarchy <hr>
+Against Political Equality<hr>
+Agonism<hr>
+Agrarian socialism<hr>
+Ainu Revolution Theory<hr>
+Algerism<hr>
+American exceptionalism<hr>
+American Free Press<hr>
+Anti-authoritarianism<hr>
+Anti-Federalism<hr>
+Anti-patriotism<hr>
+Anti-Zionism<hr>
+Antidisestablishmentarianism<hr>
+Antimilitarism<hr>
+Asian values<hr>
+Associationalism<hr>
+Atlanticism<hr>
+Authoritarianism<hr>
+<b> B </b> <hr>
+Behavioralism<hr>
+Berkeley school of political theory<hr>
+Black populism<hr>
+Black supremacy<hr>
+Burmese Way to Socialism<hr>
+Byzantinism<hr>
+<b> C </b> <hr>
+Caesaropapism<hr>
+Canaanism<hr>
+Capitalist peace<hr>
+Celine's laws <hr>
+Centrism<hr>
+Chatusadom<hr>
+Chinese New Left<hr>
+Christian existentialism<hr>
+Circumscription theory<hr>
+Citizens' Initiative Review<hr>
+Clash of Civilizations<hr>
+Coattail effect<hr>
+Collaborative e-democracy<hr>
+Collective responsibility<hr>
+Collectivism<hr>
+Commanding heights of the economy<hr>
+Communitarianism<hr>
+Communization<hr>
+Compact theory<hr>
+Compassionate conservatism<hr>
+Concurrent majority<hr>
+Conscription<hr>
+Consociationalism<hr>
+Corporate nationalism<hr>
+Corporatism<hr>
+Corporatocracy<hr>
+Cosmopolitanism<hr>
+Counterintelligence state<hr>
+Countervailing power<hr>
+<b> D </b> <hr>
+Dark Enlightenment<hr>
+Decadence<hr>
+Deliberative democracy<hr>
+Democracy in Marxism<hr>
+Democratic confederalism <hr>
+Democratic peace theory <hr>
+Democratic structuring<hr>
+Demoicracy<hr>
+Deviationism<hr>
+Digital labor<hr>
+Distributism<hr>
+Domino theory<hr>
+Dual federalism<hr>
+Dual power<hr>
+Dualism (politics)<hr>
+<b>E</b><hr>
+East–West dichotomy<hr>
+Eastern Party<hr>
+Eco-socialism<hr>
+Eliminationism<hr>
+Enlightened absolutism<hr>
+Epistemic democracy<hr>
+Equality before the law<hr>
+Equality of sacrifice<hr>
+Eritrean nationalism<hr>
+Ethnopluralism<hr>
+Euro-Slavism<hr>
+Expansionism<hr>
+Expansionist nationalism<hr>
+Extremism<hr>
+<b>F</b><hr>
+Fascism<hr>
+Federalism<hr>
+Fiscal conservatism<hr>
+Folk theory of democracy<hr>
+Founderism<hr>
+Four Cardinal Principles and Eight Virtues<hr>
+Four-Stage Theory of the Republic of China<hr>
+Fusionism<hr>
+<b>G</b><hr>
+Greater Middle East<hr>
+Green anarchism<hr>
+Green liberalism<hr>
+Gyorin<hr>
+<b>H</b><hr>
+Hardline<hr>
+Hellenoturkism<hr>
+Historical determinism<hr>
+Homonoia<hr>
+<b>I</b><hr>
+Idealism in international relations<hr>
+Immaterial labor<hr>
+Imperialism<hr>
+Inclusive management<hr>
+Independence<hr>
+Individualist anarchism<hr>
+Infrastructure for Peace<hr>
+Integral nationalism<hr>
+Interest aggregation<hr>
+Inverted totalitarianism<hr>
+Investment theory of party competition<hr>
+Irenicism<hr>
+Islam Hadhari<hr>
+Islamo-leftism<hr>
+<b>J</b><hr>
+Jacksonian democracy<hr>
+Jacobitism<hr>
+Juche<hr>
+Jurisdictionalism<hr>
+<b> K</b><hr>
+Kahanism<hr>
+Katarismo<hr>
+John Keane (political theorist)<hr>
+<b> L</b> <hr>
+Laissez-faire<hr>
+Land and liberty (slogan)<hr>
+Legalism (Chinese philosophy)<hr>
+Legitimating ideology<hr>
+Lesser magistrate<hr>
+Liberal conservatism<hr>
+Liberal corporatism<hr>
+Liberal Nationalism (book)<hr>
+Libertarian paternalism<hr>
+Liquidationism<hr>
+Localism (politics)<hr>
+<b> M</B><hr>
+Madman theory<hr>
+Majoritarianism<hr>
+Mandala (political model)<hr>
+Maoism (Third Worldism)<hr>
+Maternalism<hr>
+Mediacracy<hr>
+Militarism<hr>
+Minoritarianism<hr>
+Mobutism<hr>
+Multi-level governance<hr>
+Municipalism<hr>
+<b> N</B> <hr>
+National liberalism<hr>
+National Socialist Program<hr>
+Nationalism<hr>
+Ethnic nationalism<hr>
+Nationalism in the Middle Ages<hr>
+Negara: The Theatre State in Nineteenth-Century Bali<hr>
+Negative income tax<hr>
+Neo-Bonapartism<hr>
+Neo-fascism<hr>
+Neo-feudalism<hr>
+Neo-Jacobite Revival<hr>
+Neo-Luddism<hr>
+Neo-medievalism<hr>
+Neo-nationalism<hr>
+Neo-Nazism<hr>
+Neo-prohibitionism<hr>
+Neo-Sovietism<hr>
+Neoclassical liberalism<hr>
+Neoliberalism<hr>
+Neomercantilism<hr>
+Neopatrimonialism<hr>
+New Democracy<hr>
+Non-interventionism<hr>
+Non-Zionism<hr>
+<b> O</b> <hr>
+Objectivism<hr>
+Objectivist movement<hr>
+Omnilateralism<hr>
+Orangism (Belgium)<hr>
+Orangism (Dutch Republic)<hr>
+<b> P </b> <hr>
+Pacification theory<hr>
+Pacificism<hr>
+Pacifism<hr>
+Palingenetic ultranationalism<hr>
+Pan-Slavism<hr>
+Parity of esteem<hr>
+Participatory politics<hr>
+Party of New Type<hr>
+Paternalism<hr>
+Peripheral nationalism<hr>
+Peronism<hr>
+Person Dignity Theory<hr>
+Platformism<hr>
+Pluralism (political philosophy)<hr>
+Pochvennichestvo<hr>
+Policy jury<hr>
+Orangism (Luxembourg)<hr>
+Political decay<hr>
+Political ponerology<hr>
+Political positivism<hr>
+Elite pact<hr>
+Populism<hr>
+Post-behavioralism<hr>
+Post-Islamism<hr>
+Post-Zionism<hr>
+Praetorianism<hr>
+Preference falsification<hr>
+Prioritarianism<hr>
+Productive forces<hr>
+Prohibitionism<hr>
+Proletarian internationalism<hr>
+Propaganda model<hr>
+Propertarianism<hr>
+Proto-Zionism<hr>
+Public Force<hr>
+<b>R</b><hr>
+Racial segregation<hr>
+Radical centrism<hr>
+Radical democracy<hr>
+Radical flank effect<hr>
+Rajamandala<hr>
+Reactionary<hr>
+Receptivity<hr>
+Reformist Centre<hr>
+Resistance theory in the Early Modern period<hr>
+Retroversion of the sovereignty to the people<hr>
+Revanchism<hr>
+Reverse post-material thesis<hr>
+Revolutionary socialism<hr>
+Right of conquest<hr>
+Roemer model of political competition<hr>
+Rogue state<hr>
+<b>S</b><hr>
+Sabato triangle<hr>
+Sadae<hr>
+Sadaejuui<hr>
+Sandinista ideology<hr>
+Scandinavism<hr>
+Scientific politics<hr>
+Scientific socialism<hr>
+Scientism<hr>
+Sectionalism<hr>
+Self-determination<hr>
+Socialist self-management<hr>
+Separatism<hr>
+Feminist separatism<hr>
+Slavophilia<hr>
+Social Darwinism<hr>
+Social model of disability<hr>
+Songun<hr>
+Southern Agrarians<hr>
+Starve the beast<hr>
+Statism<hr>
+Substitutionism<hr>
+Sultanism<hr>
+Supremacism<hr>
+Symphonia (theology)<hr>
+Systematic ideology<hr>
+<b>T</b><hr>
+Taistoism<hr>
+Technoliberalism<hr>
+Theoreticism<hr>
+A Theory of Justice<hr>
+Theory of the Undetermined Status of Taiwan<hr>
+Third International Theory<hr>
+Third Way<hr>
+Three Principles of the People<hr>
+The Three Revolutions<hr>
+The Three Worlds of Welfare Capitalism<hr>
+Totalitarianism<hr>
+Transylvanianism<hr>
+Tyranny of the majority<hr>
+<b>U</b><hr>
+UCLA School of Political Parties<hr>
+Ultra-leftism<hr>
+Union of European Federalists<hr>
+United States Constitution and worldwide influence<hr>
+United States non-interventionism<hr>
+Universal basic income<hr>
+Upayas (diplomacy)<hr>
+<b>V</b><hr>
+Vanguardism<hr>
+<b>W</b><hr>
+Wage subsidy<hr>
+Welfare chauvinism<hr>
+What Is a Nation?<hr>
+White supremacy<hr>
+Whiteness studies<hr>
+Workers' self-management<hr>
+World revolution<hr>
+<b>Z</b><hr>
+Zionism
+</p>
+<div>
+<img src="https://www.aier.org/wp-content/uploads/2018/09/Max_Stirner-800x450.jpg" alt="Lord Stirner" width="500" usemap="#Max_Stirner">
+<map name="Max_Stirner">
+  <area shape="default" href="https://pics.conservativememes.com/Facebook-255761.png">
+</div>
+<p> Lord Stirner </p>
+
+</body>
+</html>
